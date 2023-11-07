@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Windbnb</h1>
+<h1 align="center">Devchallengues Front Skeleton</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://windbnb-6zn.pages.dev/">
+    <a href="http://devchallenges.io">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/brandovidal/input-component">
+    <a href="https://github.com/brandovidal/devchallengues-front-skeleton">
       Solution
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/3JFYedSOZqAxYuOCNmYD">
+    <a href="https://devchallenges.io/challenges/">
       Challenge
     </a>
   </h3>
@@ -61,12 +61,7 @@ _Screenshot Mobile_
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
-- ✅ User story: I can see a list of properties
-- ✅ User story: I can see the property card with a name, rating, apartment type, and super host
-- ✅ User story: I can open the filter drawer
-- ✅ User story: I can filter properties by location and number of guests
-- ✅ User story: I can see the number of filtered items
-- ✅ User story: I can see pages following given designs
+- ✅ User story: Completed
 
 ## How To Use
 
@@ -75,7 +70,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ### Clone this repository
 
 ```bash
-git clone https://github.com/brandovidal/input-component.git
+git clone https://github.com/brandovidal/devchallengues-front-skeleton.git
+
+o
+
+git clone git@github.com:brandovidal/devchallengues-front-skeleton.git
 ```
 
 ### Install dependencies
